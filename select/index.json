@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "足の小指を箪笥の角にぶつけた",
+  "base_artist": "Hinatazaka46",
+  "createdAt": "2025-12-30T02:24:24.178207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "足の小指を箪笥の角にぶつけた",
+      "artist": "Hinatazaka46",
+      "has_synced": true,
+      "path": "select/01_足の小指を箪笥の角にぶつけた_Hinatazaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "足の小指を箪笥の角にぶつけた",
+      "artist": "日向坂46",
+      "has_synced": true,
+      "path": "select/02_足の小指を箪笥の角にぶつけた_日向坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "足の小指を箪笥の角にぶつけた",
+      "artist": "Hinatazaka46",
+      "has_synced": false,
+      "path": "select/pl_01_足の小指を箪笥の角にぶつけた_Hinatazaka46.txt"
+    }
+  ]
+}
